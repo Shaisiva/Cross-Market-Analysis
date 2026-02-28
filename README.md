@@ -1,7 +1,7 @@
 # Cross-Market-Analysis
 Cross-Market Analysis: Crypto, Oil &amp; Stocks with SQL and Python
 
-# Data Collection 022025
+# Cross-Market-Analysis
 
 A data pipeline that collects cryptocurrency (CoinGecko), oil (WTI), and stock/index (Yahoo Finance) data into a SQLite database, with a Streamlit app for exploration and SQL-based analytics.
 
@@ -17,7 +17,7 @@ A data pipeline that collects cryptocurrency (CoinGecko), oil (WTI), and stock/i
 ## 1. Clone and set up the project
 
 ```bash
-cd DataCollection022025
+cd Cross-Market-Analysis
 ```
 
 Create and activate a virtual environment (recommended):
