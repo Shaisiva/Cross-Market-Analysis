@@ -241,7 +241,7 @@ Common issues encountered during setup and usage, and how to fix them.
 ### 8. **Streamlit or database not found**
 
 - **Cause:** Running `streamlit` or scripts from a different working directory or environment where `cryptocurrencies.db` or the project root is not in use.
-- **Solution:** Run all commands from the project root `DataCollection022025`, and use the same virtual environment where you ran `pip install -r requirements.txt`. For Streamlit, run: `streamlit run data_report.py` from the project root so that `sql_operation` finds `cryptocurrencies.db` in the current directory.
+- **Solution:** Run all commands from the project root `Cross-Market-Analysis`, and use the same virtual environment where you ran `pip install -r requirements.txt`. For Streamlit, run: `streamlit run data_report.py` from the project root so that `sql_operation` finds `cryptocurrencies.db` in the current directory.
 
 ---
 
@@ -252,5 +252,5 @@ Common issues encountered during setup and usage, and how to fix them.
 
 ---
 
-*Last updated for DataCollection022025 (Feb 2025).*
+*Last updated for Cross-Market-Analysis (Feb 2025).*
 
